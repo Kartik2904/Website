@@ -1,0 +1,22 @@
+.relative {
+    position: relative;
+    
+}
+
+.certification {
+    width: 50vw;
+    height: 50vh;
+    object-fit: cover;
+}
+
+.name {
+    position: absolute;
+    top: 215px;
+    right: 25%;
+}
+
+.course{
+    position: absolute;
+    top: 290px;
+    right: 23%;
+}
